@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon server.js"
   },
-  "author": "",
+  "author": "leoraion_",
   "license": "ISC",
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
